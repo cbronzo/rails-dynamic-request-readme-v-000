@@ -1,1 +1,1 @@
-class PostsController < ActiveRecord::Base
+class PostsController < ApplicationController
